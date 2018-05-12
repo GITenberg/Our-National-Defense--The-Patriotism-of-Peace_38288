@@ -1,0 +1,27 @@
+_repo: Our-National-Defense--The-Patriotism-of-Peace_38288
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maxwell, George Hebard
+    birthdate: 1860
+    deathdate: 1946
+    gutenberg_agent_id: '39375'
+    url: http://www.gutenberg.org/2009/agents/39375
+description: ''
+gutenberg_issued: '2011-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38288'
+  lccn: '15007055'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'UA'
+- !lcsh 'United States -- Defenses'
+title: 'Our National Defense: The Patriotism of Peace'
+url: http://www.gutenberg.org/ebooks/38288
